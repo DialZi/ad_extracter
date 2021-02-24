@@ -1,0 +1,30 @@
+# byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# IDE 
+.vscode
+
+# tests and coverage
+*.pytest_cache
+.coverage
+
+# database & logs
+*.db
+*.sqlite3
+*.log
+
+# venv
+env
+venv
+
+# env conf
+.env
+
+# other
+.DS_Store
+
+#local files 
+users.csv
+test.py
+temp.json
